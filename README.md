@@ -93,6 +93,3 @@ Ao iniciar o aplicativo:
 4.  Um **indicador de carregamento** aparece enquanto os dados são buscados
 5.  Caso ocorra **erro**, uma mensagem é exibida
 
----
-
-## 📂 Estrutura de Pastas
