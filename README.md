@@ -16,7 +16,7 @@ A API escolhida foi a **Coinbase Exchange Rates API**, que fornece taxas de câm
 
 ---
 
-## 🎯 Objetivo do Desafio
+## 🎯 Objetivo
 
 O aplicativo deve:
 
@@ -24,8 +24,6 @@ O aplicativo deve:
 * **Exibir as informações** na interface
 * Mostrar **estados de carregamento** e **erro**
 * Mostrar a **lista com os dados** retornados pela API
-
-> Nenhum sistema de navegação ou biblioteca UI adicional é exigido neste desafio.
 
 ---
 
